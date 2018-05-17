@@ -1,0 +1,31 @@
+! ** JCreator Project File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.10"
+LABEL := "Hello"
+JDKPROFILE := ""
+ACTIVE := "1"
+OUTPUTPATH := ".\\"
+COMPILER := ""
+
+! Start RunTime Configuration Structure
+#[BeginRunTime]LABEL := "<Default>" RUNAPPLIC := "" RUNAPPLET := "" PARAM := "" RUN := "Hello.htm" CHECK := "10" #[EndRunTime]
+! Start Required Libraries Structure
+
+! Start Project Folder Structure
+#[BeginFolder]
+LABEL := "Root"
+FILTER := ""
+
+#[BeginFile]SOURCE := "Hello.java" #[EndFile]
+#[BeginFile]SOURCE := "Hello.htm" #[EndFile]
+#[BeginFile]SOURCE := "vertice.java" #[EndFile]
+#[BeginFile]SOURCE := "lineseg.java" #[EndFile]
+#[BeginFile]SOURCE := "matrix.java" #[EndFile]
+#[BeginFile]SOURCE := "MyCamera.java" #[EndFile]
+#[BeginFile]SOURCE := "point.java" #[EndFile]
+#[BeginFile]SOURCE := "quaternion.java" #[EndFile]
+#[BeginFile]SOURCE := "surface.java" #[EndFile]
+#[BeginFile]SOURCE := "vector.java" #[EndFile]
+#[BeginFile]SOURCE := "dodeca.java" #[EndFile]
+#[EndFolder]

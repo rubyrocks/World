@@ -1,0 +1,17 @@
+! ** JCreator Workspace File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.00"
+LABEL := "World"
+
+! Start Project Structure
+#[BeginProject]SOURCE := "World.jcp" #[EndProject]
+
+! Start Last Document Structure
+#[BeginFile]SOURCE := "quaternion.java" #[EndFile]
+#[BeginFile]SOURCE := "vector.java" #[EndFile]
+#[BeginFile]SOURCE := "MyCamera.java" #[EndFile]
+#[BeginFile]SOURCE := "dodeca.java" #[EndFile]
+#[BeginFile]SOURCE := "World.java" #[EndFile]
+#[BeginFile]SOURCE := "surface.java" #[EndFile]
+

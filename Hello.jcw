@@ -1,0 +1,11 @@
+! ** JCreator Workspace File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.00"
+LABEL := "Hello"
+
+! Start Project Structure
+#[BeginProject]SOURCE := "Hello.jcp" #[EndProject]
+
+! Start Last Document Structure
+
